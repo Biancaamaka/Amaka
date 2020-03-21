@@ -1,5 +1,18 @@
-Name: Chiamaka Josephine Atasie
-Email: atasie_chiamaka@yahoo.com
-Slack Username: Amaka
-Track: Frontend
-Courses: HTML, CSS, JavaScript
+# My **Profile**
+
+## Name: 
+Chiamaka Josephine Atasie
+
+## Email Address: 
+atasie_chiamaka@yahoo.com
+
+## Slack Username: 
+Amaka
+
+## Track: 
+1. Frontend
+
+## Courses: 
+1. HTML
+2. CSS
+3. JavaScript
